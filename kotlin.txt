@@ -1,0 +1,1 @@
+este es un ejercicio para la guia 7 sobre git
